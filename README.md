@@ -1,6 +1,6 @@
 # TextToMorse
 
-TextToMorse is a simple program written in python that can turn any text into Morse code, after the standards for International Morse Code. 
+TextToMorse is a simple program written in python that can turn any text into Morse code, after the standards for [International Morse Code](https://en.wikipedia.org/wiki/Morse_code). 
 
 ## Installation
 
@@ -27,7 +27,7 @@ source .venv/bin/activate
 ```
 
 <hr>
-In the venv now use the package manager [pip](https://pip.pypa.io/en/stable/) to install the requirements.
+In the venv now use the package manager pip to install the requirements.
 
 ```bash
 pip install -r requirements.txt
